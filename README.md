@@ -8,7 +8,7 @@ Based on the official Kubernetes documentation: https://kubernetes.io/docs/tutor
 
 1. Download the yaml file:
 
-	$ wget https://github.com/ggferenczi/kubernetes/wordpress.yaml
+	$ wget https://github.com/ggferenczi/kubernetes/blob/master/wordpress.yaml
 
 2. Or clone the git repo:
 
