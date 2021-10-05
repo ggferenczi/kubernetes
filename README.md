@@ -27,4 +27,4 @@ If you are using Minikube, than you can watch your created app with a one-line-c
 
 	$ minikube service wordpress
 
-
+====
